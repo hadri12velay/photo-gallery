@@ -1,2 +1,2 @@
-# myWebsite
+# Photo Gallery
  
